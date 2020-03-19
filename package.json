@@ -28,7 +28,8 @@
     "node"
   ],
   "dependencies": {
-    "@fidm/asn1": "^1.0.4",
+    "@fidm/asn1": "git://github.com/ezirmusitua/asn1.git#react-native",
+    "buffer": "^5.5.0",
     "tweetnacl": "^1.0.1"
   },
   "devDependencies": {
